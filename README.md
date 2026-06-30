@@ -66,10 +66,6 @@ node server.js
 http://localhost:3000
 ```
 
-## 📷 Screenshots
-
-Add screenshots of your project here.
-
 ## 📌 Future Improvements
 
 - Store users in a database
